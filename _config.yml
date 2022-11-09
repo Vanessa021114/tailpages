@@ -3,14 +3,14 @@ baseurl: "/tailpages" # the name of your github repo
 url: "https://vanessa021114.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Vanessa & Panda's website"
-description: This is the website for Vanessa and Panda
+title: "Vanessa & Amanda's website"
+description: This is the website for Vanessa and Amanda
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Vanessa & Panda
+author: Vanessa & Amanda
 author-bio: Students  # change to false to hide
 author-image: WechatIMG16539.jpeg  # file must be in the /assets/img/ folder
 
