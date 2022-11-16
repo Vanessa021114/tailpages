@@ -24,6 +24,8 @@ nav-menu:
   permalink: skills
 - text: Blog
   permalink: blog
+- text: Project
+  permalink: project
 
 # use false to turn off any social media links
 twitter: https://twitter.com/home
